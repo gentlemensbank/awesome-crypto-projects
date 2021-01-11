@@ -19,4 +19,4 @@ A list of crypto projects we are looking into possibly integrating/building with
 * [Token Tax](https://tokentax.co/)
 #### Trackers
 * [Coin Tracker](https://www.cointracker.io/)
-* [Zerion](https://zerion.io) [Zerion Github](https://github.com/zeriontech/defi-sdk)
+* [Zerion](https://zerion.io) -[Github](https://github.com/zeriontech/defi-sdk)
