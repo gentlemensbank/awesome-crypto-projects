@@ -7,5 +7,7 @@ A list of crypto projects we really like
 
 ### Projects to be inspired about (or bluntly copy)
 https://cryptotaxtools.com/
+
 https://www.cointracker.io/
+
 https://tokentax.co/
