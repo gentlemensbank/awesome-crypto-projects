@@ -6,11 +6,11 @@ A list of crypto projects we are looking into possibly integrating/building with
 ### Possible Integrations - Forkable/Basis Features
 
 * [Messari Analytics](https://messari.io) 
-* [Uniswap](https://uniswap.org)(uniswap interface)
-* [Interface](https://melon.avantgarde.finance/)(melon terminal/interface)
-* [The Graph](https://thegraph.com)(custom data query)
-* [Chainlink](https://chain.link)(real-world data feeds)
-* [BarnBridge](https://barnbridge.com)(product expansions/integrations)
+* [Uniswap](https://uniswap.org) (uniswap interface)
+* [Interface](https://melon.avantgarde.finance/) (melon terminal/interface)
+* [The Graph](https://thegraph.com) (custom data query)
+* [Chainlink](https://chain.link) (real-world data feeds)
+* [BarnBridge](https://barnbridge.com) (product expansions/integrations)
 *
 
 ### Inspirational Projects - Useful metrics, tools and apps
