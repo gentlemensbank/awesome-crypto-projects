@@ -1,7 +1,7 @@
 # Awesome Crypto Projects
 A list of crypto projects we are looking into possibly integrating/building with.
 
-## DEFI
+## DeFi
 
 ### Possible Integrations - Forkable/Basis Features
 
