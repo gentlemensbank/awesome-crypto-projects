@@ -12,6 +12,7 @@ A list of crypto projects we are looking into possibly integrating/building with
 * [Chainlink](https://chain.link) (real-world data feeds)
 * [BarnBridge](https://barnbridge.com) (product expansions/integrations)
 *
+* [balancer] https://balancer.finance/ (a protocol for programmable liquidity)
 
 ### Inspirational Projects - Useful metrics, tools and apps
 #### Taxes
