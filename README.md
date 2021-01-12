@@ -13,6 +13,7 @@ A list of crypto projects we are looking into possibly integrating/building with
 * [BarnBridge](https://barnbridge.com) (product expansions/integrations)
 * [balancer](https://balancer.finance/) (a protocol for programmable liquidity)
 * [Aave](https://aave.com/) (liquidity protocol)
+* [Instadapp](https://instadapp.io/) (basically an single point of entry to popular DEFI thats FREE, but idk why they are doing it for free)
 
 ### Inspirational Projects - Useful metrics, tools and apps
 #### Taxes
