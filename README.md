@@ -17,6 +17,8 @@ A list of crypto projects we are looking into possibly integrating/building with
 * [Sushiswap Classic](https://sushiswapclassic.org/) (uniswap fork) [Sushiswap](https://sushiswap.fi/) (sushiswap shiny frontend)
 * [Yearn Finance](https://yearn.finance/)
 * [Curve Fi](https://curve.fi/)
+* [Kyber Network](https://kyber.network/)
+
 
 
 
