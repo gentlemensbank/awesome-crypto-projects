@@ -26,7 +26,7 @@ A list of crypto projects we are looking into possibly integrating/building with
 * [Inverse Finance](https://inverse.finance/) (new financial order)
 * [Enzyme Finance](https://enzyme.finance/) (on-chain fund managing)
 * [BadgerDAO](https://badger.finance/) (BTC + DeFi)
-* [Black Pool Finance](https://www.blackpool.finance/)
+* [Black Pool Finance](https://www.blackpool.finance/) (NFT fund)
 * [Rarible](https://rarible.com) (NFT platform)
 * [Open DeFi](https://open-defi.com/) (Member-led Org)
 * [BarnBridge](https://barnbridge.com) (product expansions/integrations)
