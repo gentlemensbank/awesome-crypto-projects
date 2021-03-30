@@ -1,4 +1,4 @@
-# Awesome Crypto Projects
+# Projects we have focus on
 A list of crypto projects we are looking into possibly integrating/building with.
 
 ## DeFi
@@ -19,6 +19,20 @@ A list of crypto projects we are looking into possibly integrating/building with
 * [Curve Fi](https://curve.fi/)
 * [Kyber Network](https://kyber.network/)
 * [bZX](https://bzx.network/) (open finance protocol)
+
+
+### Wanted Collaborations
+
+* [Inverse Finance](https://inverse.finance/) (new financial order)
+* [Enzyme Finance](https://enzyme.finance/) (on-chain fund managing)
+* [BadgerDAO](https://badger.finance/) (BTC + DeFi)
+* [Black Pool Finance](https://www.blackpool.finance/)
+* [Rarible](https://rarible.com) (NFT platform)
+* [Open DeFi](https://open-defi.com/) (Member-led Org)
+* [BarnBridge](https://barnbridge.com) (product expansions/integrations)
+* [Rari Capital](https://rari.capital/) (Autonomous yield protocol)
+* [Gitcoin](https://gitcoin.co/) (Open Source Network for builders and funders)
+
 
 
 
